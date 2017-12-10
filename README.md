@@ -69,7 +69,7 @@ In the eval_set column,
 
 ### Approach
 
-1. This is a Classification problem  an in particular a Binomial Classification - Either a user's order has a product that is reordered (1) or is not reordered (0)
+1. This is a Classification problem  an in particular a Bianary Classification - Either a user's order has a product that is reordered (1) or is not reordered (0)
 2. Appraoch will be similar to the one outlined in this blog post <http://blog.kaggle.com/2017/09/21/instacart-market-basket-analysis-winners-interview-2nd-place-kazuki-onodera/>
 3. Predict Re-Orders: which previously purchased products will be in the next order. This depends on the User and the Product
 4. Predict None - Will the User's next order NOT contain a re-order. If the probability is p, then we can infer the probability of a re-order is (1-p).
