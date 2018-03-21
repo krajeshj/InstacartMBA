@@ -84,3 +84,4 @@ Submissions will include
 |Sl.no| Files|Comments
 |:---:|:---:|:---:|
 |1| code/py/InstacartMBA_DataWrangling.ipynb| Submission for Data Wrangling
+|2| code/py/InstacartMBA_DataStoryTelling.ipynb| Submission for Data Storey Telling 
