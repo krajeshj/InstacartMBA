@@ -83,7 +83,7 @@ Submissions will include
 
 |Sl.no| Files|Comments
 |:---:|:---:|:---:|
-|1| code/py/InstacartMBA_ETL.ipynb|[Code for Extraction Transformation and Loading ](https://github.com/krajeshj/InstacartMBA/blob/master/code/py/InstacartMBA_ETL.ipynb
-|2| code/py/InstacartMBA_DataWrangling.ipynb| [Code for Data Wrangling](https://github.com/krajeshj/InstacartMBA/blob/master/code/py/InstacartMBA_DataWrangling.ipynb)
-|3| code/py/InstacartMBA_DataStoryTelling.ipynb| [Code for Data Story Telling]((https://github.com/krajeshj/InstacartMBA/blob/master/code/py/InstacartMBA_DataWrangling.ipynb)
+|1| code/py/InstacartMBA_ETL.ipynb|[Code for Extraction Transformation and Loading ](https://github.com/krajeshj/InstacartMBA/blob/master/code/py/InstacartMBA_ETL.ipynb)|
+|2| code/py/InstacartMBA_DataWrangling.ipynb| [Code for Data Wrangling](https://github.com/krajeshj/InstacartMBA/blob/master/code/py/InstacartMBA_DataWrangling.ipynb)|
+|3| code/py/InstacartMBA_DataStoryTelling.ipynb| [Code for Data Story Telling](https://github.com/krajeshj/InstacartMBA/blob/master/code/py/InstacartMBA_DataWrangling.ipynb)|
 
