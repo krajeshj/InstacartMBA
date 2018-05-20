@@ -1,4 +1,4 @@
-## Instacart Market basket analysis - Springboard capstone proposal
+## Instacart Market basket analysis  
 ### Problem : 
 The goal of this competition was to predict grocery reorders: given a user’s purchase history (a set of orders, and the products purchased within each order), which of their previously purchased products will they repurchase in their next order?
     
